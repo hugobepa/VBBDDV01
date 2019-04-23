@@ -1,0 +1,5 @@
+DESKTOP-O7NQDE0\SQLEXPRESS
+
+https://www.geeksengine.com/database/problem-solving/northwind-queries-part-1.php
+
+select top 50  CustomerID,CompanyName,ContactName,ContactTitle from dbo.Customers
